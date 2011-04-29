@@ -1,5 +1,8 @@
 class Hola
-  def self.hi
-    puts "Hello world!"
+  def self.hi(language)
+    translator = Translator.new(language)
+    puts translator.hi
   end
 end
+
+require 'hola/translator'

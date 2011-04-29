@@ -1,7 +1,7 @@
 class Hola
   def self.hi(language)
     translator = Translator.new(language)
-    puts translator.hi
+    translator.hi
   end
 end
 

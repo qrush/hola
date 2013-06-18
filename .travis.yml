@@ -6,4 +6,3 @@ notifications:
 rvm:
   - 1.9.3
   - 1.8.7
-  - ruby-head

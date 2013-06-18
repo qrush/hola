@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name               = "hola"
-  s.version            = "0.0.1"
+  s.version            = "0.0.3"
   s.default_executable = "hola"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
@@ -14,6 +14,7 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.6.2}
   s.summary = %q{Hola!}
+  s.executables << %q{hola}
 
   if s.respond_to? :specification_version then
     s.specification_version = 3

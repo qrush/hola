@@ -6,3 +6,4 @@ class Hola
 end
 
 require 'hola/translator'
+require 'hola/version'

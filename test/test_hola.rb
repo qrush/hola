@@ -20,4 +20,8 @@ class HolaTest < Test::Unit::TestCase
   def test_dutch_hello
     assert_equal "hallo wereld", Hola.hi("dutch")
   end
+  
+  def test_korean_hello
+    assert_equal "anyoung ha se yo", Hola.hi("korean")
+  end
 end

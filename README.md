@@ -1,6 +1,9 @@
 # Hola
 
-Simple “hello world” gem
+Simple “hello world” gem, with tests and code coverage
+
+[![Travis CI tests](https://travis-ci.org/ianheggie/inteltech_sms.png)](https://travis-ci.org/ianheggie/inteltech_sms)
+[![Coverage Status](https://coveralls.io/repos/ianheggie/hola/badge.png)](https://coveralls.io/r/ianheggie/hola)
 
 ## Installation
 

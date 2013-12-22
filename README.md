@@ -2,7 +2,7 @@
 
 Simple “hello world” gem, with tests and code coverage
 
-[![Travis CI tests](https://travis-ci.org/ianheggie/inteltech_sms.png)](https://travis-ci.org/ianheggie/inteltech_sms)
+[![Travis CI tests](https://travis-ci.org/ianheggie/hola.png)](https://travis-ci.org/ianheggie/hola)
 [![Coverage Status](https://coveralls.io/repos/ianheggie/hola/badge.png)](https://coveralls.io/r/ianheggie/hola)
 
 ## Installation

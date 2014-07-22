@@ -9,6 +9,10 @@ class Hola::Translator
       "hola mundo"
     when "korean"
       "anyoung ha se yo"
+    when "german"
+      "Guten Tag"
+    when "latin"
+      "salve"
     else
       "hello world"
     end

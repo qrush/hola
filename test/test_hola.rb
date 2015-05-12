@@ -1,3 +1,4 @@
+# encoding: UTF-8
 require 'coveralls'
 Coveralls.wear!
 
@@ -23,5 +24,9 @@ class HolaTest < Test::Unit::TestCase
   
   def test_korean_hello
     assert_equal "anyoung ha se yo", Hola.hi("korean")
+  end
+  
+  def test_polish_hello
+    assert_equal "witaj świecie", Hola.hi("polish")
   end
 end

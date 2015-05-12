@@ -9,7 +9,7 @@ Simple “hello world” gem, with tests and code coverage
 
 Add this line to your application's Gemfile:
 
-    gem 'hola'
+    gem 'hola-ianh'
 
 And then execute:
 
@@ -17,7 +17,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install hola
+    $ gem install hola-ianh
 
 ## Usage
 
@@ -31,3 +31,6 @@ See http://guides.rubygems.org/make-your-own-gem/
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
 
+## Thanks
+
+Forked with thanks to qrush from https://github.com/qrush/hola.

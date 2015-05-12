@@ -15,6 +15,10 @@ class Hola::Translator
       "hallo wereld"
     when "polish"
       "witaj świecie"
+    when "german"
+      "hallo welt"
+    when "brazilian portuguese"
+      "olá mundo"
     else
       "hello world"
     end

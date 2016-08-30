@@ -16,3 +16,4 @@ platforms :ruby_22, :ruby_23 do
   gem 'minitest'
 end
 gem 'coveralls', :require => false, :group => :development
+gem 'tins', '<1.7.0' if RUBY_VERSION =~ /^1\./

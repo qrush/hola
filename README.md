@@ -34,3 +34,4 @@ See http://guides.rubygems.org/make-your-own-gem/
 ## Thanks
 
 Forked with thanks to qrush from https://github.com/qrush/hola.
+Thanks for contributions of extra languages from various people.

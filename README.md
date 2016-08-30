@@ -1,9 +1,9 @@
 # Hola
 
-Simple “hello world” gem, with tests and code coverage
+Expanded “hello world” gem, with tests and code coverage
 
-[![Travis CI tests](https://travis-ci.org/ianheggie/hola.png)](https://travis-ci.org/ianheggie/hola)
-[![Coverage Status](https://coveralls.io/repos/ianheggie/hola/badge.png)](https://coveralls.io/r/ianheggie/hola)
+[![Travis CI tests](https://travis-ci.org/ianheggie/hola-ianh.png)](https://travis-ci.org/ianheggie/hola-ianh)
+[![Coverage Status](https://coveralls.io/repos/ianheggie/hola-ianh/badge.png)](https://coveralls.io/r/ianheggie/hola-ianh)
 
 ## Installation
 

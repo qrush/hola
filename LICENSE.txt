@@ -7,9 +7,7 @@ Your profile and materials uploaded remain yours.
 However, by setting your pages to be viewed publicly, you agree to allow others to view your Content.
 By setting your repositories to be viewed publicly, you agree to allow others to view and fork your repositories.
 
-Bundle supplied the following suggested license:
-
-Copyright (c) 2013 Nick Quaranto
+Code supplied by Ian Heggie is Copyright (C) 2014 Ian Heggie under MIT LICENCE
 
 MIT License
 

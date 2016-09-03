@@ -1,3 +1,5 @@
+# encoding: UTF-8
+
 class Hola
   def self.hi(language)
     translator = Translator.new(language)
@@ -6,3 +8,4 @@ class Hola
 end
 
 require 'hola/translator'
+require 'hola/version'

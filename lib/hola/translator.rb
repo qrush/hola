@@ -1,3 +1,5 @@
+# encoding: UTF-8
+
 class Hola::Translator
   def initialize(language = "english")
     @language = language
@@ -9,6 +11,14 @@ class Hola::Translator
       "hola mundo"
     when "korean"
       "anyoung ha se yo"
+    when "dutch"
+      "hallo wereld"
+    when "polish"
+      "witaj świecie"
+    when "german"
+      "hallo welt"
+    when "brazilian portuguese"
+      "olá mundo"
     else
       "hello world"
     end

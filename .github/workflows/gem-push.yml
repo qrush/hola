@@ -43,3 +43,10 @@ jobs:
         gem push *.gem
       env:
         GEM_HOST_API_KEY: "${{secrets.RUBYGEMS_AUTH_TOKEN}}"
+- name: Download a Build Artifact
+  uses: actions/download-artifact@v2.1.0
+  with:
+    # Artifact name
+    name: # optional
+    # Destination path
+    path: # optional
